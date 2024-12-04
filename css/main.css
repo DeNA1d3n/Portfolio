@@ -105,13 +105,13 @@ html {
 
  body {
     min-height: 100vh;
-    display: flex
-;
+    display: flex;
     flex-direction: column;
     max-width: 100%;
     color: var(--first-color);
     background: var(--body-bg-color);
     overflow-x: hidden;
+    padding-top: 61px;
 }
 
 .container {
